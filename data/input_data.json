@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "subject": "Invoice #1234 Overdue",
+    "body": "Dear Customer,\n\nThis is a reminder that Invoice #1234, dated September 10, 2025, remains unpaid. Please arrange payment within the next five business days to avoid late fees. If payment has already been made, kindly disregard this notice.\n\nBest regards,\nFinance Department"
+  },
+  {
+    "id": 2,
+    "subject": "Weekly Engineering Sync",
+    "body": "Hi Team,\n\nOur weekly engineering sync is scheduled for Thursday at 10 AM. Agenda includes sprint progress, blockers, and a review of new feature deployments. Please update your Jira tickets before the meeting.\n\nThanks,\nTechnical Lead"
+  },
+  {
+    "id": 3,
+    "subject": "Company Retreat Announcement",
+    "body": "Hello Everyone,\n\nWe are thrilled to announce our annual company retreat! It will take place from November 20-22 at Lakeview Resort. This is a great opportunity for team bonding and relaxation. RSVP by October 25 to HR.\n\nWarm regards,\nHuman Resources"
+  },
+  {
+    "id": 4,
+    "subject": "Budget Planning for Q4",
+    "body": "Dear Finance Team,\n\nAs we approach the end of Q3, please start preparing the budget forecast for Q4. Include anticipated expenses for marketing campaigns, software renewals, and hiring costs. Submit your draft by next Friday.\n\nRegards,\nFinance Director"
+  },
+  {
+    "id": 5,
+    "subject": "Server Maintenance Scheduled",
+    "body": "Attention Engineers,\n\nWe will be performing scheduled maintenance on production servers this Saturday from 1 AM to 5 AM. During this window, system access may be intermittent. Please ensure all critical deployments are completed beforehand.\n\nSincerely,\nIT Operations"
+  },
+  {
+    "id": 6,
+    "subject": "New Employee Orientation",
+    "body": "Hi Team,\n\nThe next orientation session for new employees will be held on October 18 at 9 AM in the main conference room. Managers, please ensure your new hires are informed and registered.\n\nThanks,\nHR Department"
+  },
+  {
+    "id": 7,
+    "subject": "Marketing Campaign Launch - Fall 2025",
+    "body": "Dear Marketing Team,\n\nWe’re excited to kick off our Fall 2025 campaign focusing on sustainable packaging. Creative assets are due by October 10, and social media rollout begins October 15. Please review the campaign brief attached.\n\nBest,\nMarketing Manager"
+  },
+  {
+    "id": 8,
+    "subject": "Payroll Update for October",
+    "body": "Dear Employees,\n\nPlease note that October payroll will be processed on the 28th instead of the 30th due to a system upgrade. Ensure your timesheets are submitted by the 25th to avoid delays.\n\nBest regards,\nFinance Team"
+  },
+  {
+    "id": 9,
+    "subject": "Code Review Guidelines",
+    "body": "Hi Developers,\n\nWe’ve updated our internal code review guidelines to improve collaboration and maintain code quality. Please review the new document shared on Confluence and apply these standards in all future pull requests.\n\nBest,\nTech Lead"
+  },
+  {
+    "id": 10,
+    "subject": "Employee Wellness Program",
+    "body": "Dear Team,\n\nWe’re launching a new wellness program including yoga sessions, mental health workshops, and fitness reimbursements. Participation is voluntary but highly encouraged. More details are available on the HR portal.\n\nWarm regards,\nHR Team"
+  },
+    {
+    "id": 11,
+    "subject": "",
+    "body": "\n\n"
+  }
+]
